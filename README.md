@@ -1,5 +1,5 @@
 # Bienvenidos a mi proyecto
 
-lorem ipsum asdf asd fas fads f
+otra cosa por nuestro compañero
 
 - cambio de nuestro compañero
