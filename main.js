@@ -9,5 +9,5 @@ function login() {
 
 function camera() {
   // función para la cámara
-  // función para la cámara fixed
+  // función para la cámara fixed   
 }
