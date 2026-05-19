@@ -18,3 +18,5 @@ function gps() {
   // más funcionalidades
   // gps fix
 }
+
+//  otro comentario
