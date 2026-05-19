@@ -12,3 +12,7 @@ function camera() {
   // función para la cámara
   // función para la cámara fixed
 }
+
+function gps() {
+  // gps
+}
