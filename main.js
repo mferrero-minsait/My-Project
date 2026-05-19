@@ -14,7 +14,7 @@ function camera() {
 }
 
 function gps() {
-  // gps
+  // cambios nuestros para arreglar el gps
   // más funcionalidades
   // gps fix
 }
