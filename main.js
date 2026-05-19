@@ -9,7 +9,7 @@ function login() {
 }
 
 function camera() {
-  // cambios nuestros para arreglar la cámara
+  // cambios de nuestro compañero y cambios nuestros
   // función para la cámara fixed
 }
 
