@@ -4,6 +4,7 @@ console.log("homepage created");
 
 function login() {
   // función para el login
+  // Corrección de un bug en login
   console.log("login");
 }
 
