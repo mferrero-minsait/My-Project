@@ -1,3 +1,3 @@
-console.log("hola");
+console.log("homepage created");
 
 // comentario
