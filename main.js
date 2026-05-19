@@ -4,4 +4,5 @@ console.log("homepage created");
 
 function login() {
   // función para el login
+  console.log("login");  
 }
